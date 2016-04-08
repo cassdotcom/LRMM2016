@@ -1,0 +1,265 @@
+NAME	TYPE	ProfileCategory	ProfileYMultiplier	ProfileNumberOfPoints	ProfilePointXValue	ProfilePointYValue
+D1 PROFILE	Profiles	Flow	1	2		
+C1 PROFILE	Profiles	Flow	1	2		
+C2 PROFILE	Profiles	Flow	1	2		
+C3  PROFILE	Profiles	Flow	1	2		
+C4 PROFILE	Profiles	Flow	1	2		
+S1 PROFILE	Profiles	Flow	1	2		
+S2 PROFILE	Profiles	Flow	1	2		
+S3 PROFILE	Profiles	Flow	1	2		
+S4 PROFILE	Profiles	Flow	1	2		
+T1 PROFILE	Profiles	Flow	1	2		
+T2 PROFILE	Profiles	Flow	1	2		
+T3 PROFILE	Profiles	Flow	1	2		
+T4 PROFILE	Profiles	Flow	1	2		
+I2 PROFILE	Profiles	Flow	1	2		
+S5 PROFILE	Profiles	Flow	1	2		
+T5 PROFILE	Profiles	Flow	1	2	
+DC PROFILE	Profiles	Flow	1	2	
+CC PROFILE	Profiles	Flow	1	2	
+S6 PROFILE	Profiles	Flow	1	2	
+T6 PROFILE	Profiles	Flow	1	2	
+IC PROFILE	Profiles	Flow	1	2	
+S7 PROFILE	Profiles	Flow	1	2	
+T7 PROFILE	Profiles	Flow	1	2	
+SU PROFILE	Profiles	Flow	1	2	
+TU PROFILE	Profiles	Flow	1	2	
+FU PROFILE	Profiles	Flow	1	2	
+DL PROFILE	Profiles	Flow	1	2	
+DM PROFILE	Profiles	Flow	1	2	
+DH PROFILE	Profiles	Flow	1	2	
+CA PROFILE	Profiles	Flow	1	2	
+CL PROFILE	Profiles	Flow	1	2	
+CM PROFILE	Profiles	Flow	1	2	
+CH PROFILE	Profiles	Flow	1	2	
+IA PROFILE	Profiles	Flow	1	2	
+IL PROFILE	Profiles	Flow	1	2	
+IM PROFILE	Profiles	Flow	1	2	
+IH PROFILE	Profiles	Flow	1	2	
+SA PROFILE	Profiles	Flow	1	2	
+SL PROFILE	Profiles	Flow	1	2	
+SM PROFILE	Profiles	Flow	1	2	
+SH PROFILE	Profiles	Flow	1	2	
+TA PROFILE	Profiles	Flow	1	2	
+TL PROFILE	Profiles	Flow	1	2	
+TM PROFILE	Profiles	Flow	1	2	
+TH  PROFILE	Profiles	Flow	1	2	
+NS PROFILE	Profiles	Flow	1	2	
+IF PROFILE	Profiles	Flow	1	2	
+PL-AF PROFILE	Profiles	Flow	1	2	
+PL-PL PROFILE	Profiles	Flow	1	2	
+PL-90 PROFILE	Profiles	Flow	1	2	
+CT PROFILE	Profiles	Flow	1	2	
+DA PROFILE	Profiles	Flow	1	2	
+DB PROFILE	Profiles	Flow	1	2	
+DD PROFILE	Profiles	Flow	1	2	
+DE PROFILE	Profiles	Flow	1	2	
+DF PROFILE	Profiles	Flow	1	2	
+DG PROFILE	Profiles	Flow	1	2	
+DJ PROFILE	Profiles	Flow	1	2	
+DK PROFILE	Profiles	Flow	1	2	
+DN PROFILE	Profiles	Flow	1	2	
+DP PROFILE	Profiles	Flow	1	2	
+DQ PROFILE	Profiles	Flow	1	2	
+DR PROFILE	Profiles	Flow	1	2	
+DS PROFILE	Profiles	Flow	1	2	
+DT PROFILE	Profiles	Flow	1	2	
+DU PROFILE	Profiles	Flow	1	2	
+DZ PROFILE	Profiles	Flow	1	2	
+DV PROFILE	Profiles	Flow	1	2	
+DW PROFILE	Profiles	Flow	1	2	
+DX PROFILE	Profiles	Flow	1	2	
+DY PROFILE	Profiles	Flow	1	2	
+TT PROFILE	Profiles	Flow	1	2	
+XX PROFILE	Profiles	Flow	1	2	
+H1 PROFILE	Profiles	Flow	1	2	
+H2 PROFILE	Profiles	Flow	1	2	
+V1 PROFILE	Profiles	Flow	1	2	
+V2 PROFILE	Profiles	Flow	1	2	
+LS PROFILE	Profiles	Flow	1	2	
+B1 PROFILE	Profiles	Flow	1	2	
+PL-VN PROFILE	Profiles	Flow	1	2		
+PL-VD PROFILE	Profiles	Flow	1	2		
+I1 PROFILE	Profiles	Flow	1	2		
+BC PROFILE	Profiles	Flow	1	2		
+PL-M PROFILE	Profiles	Flow	1	2		
+PL-V PROFILE	Profiles	Flow	1	2		
+PL-D3 PROFILE	Profiles	Flow	1	2		
+PL-D2 PROFILE	Profiles	Flow	1	2		
+PL-J1 PROFILE	Profiles	Flow	1	2		
+D1 PROFILE	Profile Points	Flow			0	1
+D1 PROFILE	Profile Points	Flow			1	1
+C1 PROFILE	Profile Points	Flow			0	1
+C1 PROFILE	Profile Points	Flow			1	1
+C2 PROFILE	Profile Points	Flow			0	1
+C2 PROFILE	Profile Points	Flow			1	1
+C3  PROFILE	Profile Points	Flow			0	1
+C3  PROFILE	Profile Points	Flow			1	1
+C4 PROFILE	Profile Points	Flow			0	1
+C4 PROFILE	Profile Points	Flow			1	1
+S1 PROFILE	Profile Points	Flow			0	1
+S1 PROFILE	Profile Points	Flow			1	1
+S2 PROFILE	Profile Points	Flow			0	1
+S2 PROFILE	Profile Points	Flow			1	1
+S3 PROFILE	Profile Points	Flow			0	1
+S3 PROFILE	Profile Points	Flow			1	1
+S4 PROFILE	Profile Points	Flow			0	1
+S4 PROFILE	Profile Points	Flow			1	1
+T1 PROFILE	Profile Points	Flow			0	1
+T1 PROFILE	Profile Points	Flow			1	1
+T2 PROFILE	Profile Points	Flow			0	1
+T2 PROFILE	Profile Points	Flow			1	1
+T3 PROFILE	Profile Points	Flow			0	1
+T3 PROFILE	Profile Points	Flow			1	1
+T4 PROFILE	Profile Points	Flow			0	1
+T4 PROFILE	Profile Points	Flow			1	1
+I2 PROFILE	Profile Points	Flow			0	1
+I2 PROFILE	Profile Points	Flow			1	1
+S5 PROFILE	Profile Points	Flow			0	1
+S5 PROFILE	Profile Points	Flow			1	1
+T5 PROFILE	Profile Points	Flow			0	1
+T5 PROFILE	Profile Points	Flow			1	1
+DC PROFILE	Profile Points	Flow			0	1
+DC PROFILE	Profile Points	Flow			1	1
+CC PROFILE	Profile Points	Flow			0	1
+CC PROFILE	Profile Points	Flow			1	1
+S6 PROFILE	Profile Points	Flow			0	1
+S6 PROFILE	Profile Points	Flow			1	1
+T6 PROFILE	Profile Points	Flow			0	1
+T6 PROFILE	Profile Points	Flow			1	1
+IC PROFILE	Profile Points	Flow			0	1
+IC PROFILE	Profile Points	Flow			1	1
+S7 PROFILE	Profile Points	Flow			0	1
+S7 PROFILE	Profile Points	Flow			1	1
+T7 PROFILE	Profile Points	Flow			0	1
+T7 PROFILE	Profile Points	Flow			1	1
+SU PROFILE	Profile Points	Flow			0	1
+SU PROFILE	Profile Points	Flow			1	1
+TU PROFILE	Profile Points	Flow			0	1
+TU PROFILE	Profile Points	Flow			1	1
+FU PROFILE	Profile Points	Flow			0	1
+FU PROFILE	Profile Points	Flow			1	1
+DL PROFILE	Profile Points	Flow			0	1
+DL PROFILE	Profile Points	Flow			1	1
+DM PROFILE	Profile Points	Flow			0	1
+DM PROFILE	Profile Points	Flow			1	1
+DH PROFILE	Profile Points	Flow			0	1
+DH PROFILE	Profile Points	Flow			1	1
+CA PROFILE	Profile Points	Flow			0	1
+CA PROFILE	Profile Points	Flow			1	1
+CL PROFILE	Profile Points	Flow			0	1
+CL PROFILE	Profile Points	Flow			1	1
+CM PROFILE	Profile Points	Flow			0	1
+CM PROFILE	Profile Points	Flow			1	1
+CH PROFILE	Profile Points	Flow			0	1
+CH PROFILE	Profile Points	Flow			1	1
+IA PROFILE	Profile Points	Flow			0	1
+IA PROFILE	Profile Points	Flow			1	1
+IL PROFILE	Profile Points	Flow			0	1
+IL PROFILE	Profile Points	Flow			1	1
+IM PROFILE	Profile Points	Flow			0	1
+IM PROFILE	Profile Points	Flow			1	1
+IH PROFILE	Profile Points	Flow			0	1
+IH PROFILE	Profile Points	Flow			1	1
+SA PROFILE	Profile Points	Flow			0	1
+SA PROFILE	Profile Points	Flow			1	1
+SL PROFILE	Profile Points	Flow			0	1
+SL PROFILE	Profile Points	Flow			1	1
+SM PROFILE	Profile Points	Flow			0	1
+SM PROFILE	Profile Points	Flow			1	1
+SH PROFILE	Profile Points	Flow			0	1
+SH PROFILE	Profile Points	Flow			1	1
+TA PROFILE	Profile Points	Flow			0	1
+TA PROFILE	Profile Points	Flow			1	1
+TL PROFILE	Profile Points	Flow			0	1
+TL PROFILE	Profile Points	Flow			1	1
+TM PROFILE	Profile Points	Flow			0	1
+TM PROFILE	Profile Points	Flow			1	1
+TH  PROFILE	Profile Points	Flow			0	1
+TH  PROFILE	Profile Points	Flow			1	1
+NS PROFILE	Profile Points	Flow			0	1
+NS PROFILE	Profile Points	Flow			1	1
+IF PROFILE	Profile Points	Flow			0	1
+IF PROFILE	Profile Points	Flow			1	1
+PL-AF PROFILE	Profile Points	Flow			0	1
+PL-AF PROFILE	Profile Points	Flow			1	1
+PL-PL PROFILE	Profile Points	Flow			0	1
+PL-PL PROFILE	Profile Points	Flow			1	1
+PL-90 PROFILE	Profile Points	Flow			0	1
+PL-90 PROFILE	Profile Points	Flow			1	1
+CT PROFILE	Profile Points	Flow			0	1
+CT PROFILE	Profile Points	Flow			1	1
+DA PROFILE	Profile Points	Flow			0	1
+DA PROFILE	Profile Points	Flow			1	1
+DB PROFILE	Profile Points	Flow			0	1
+DB PROFILE	Profile Points	Flow			1	1
+DD PROFILE	Profile Points	Flow			0	1
+DD PROFILE	Profile Points	Flow			1	1
+DE PROFILE	Profile Points	Flow			0	1
+DE PROFILE	Profile Points	Flow			1	1
+DF PROFILE	Profile Points	Flow			0	1
+DF PROFILE	Profile Points	Flow			1	1
+DG PROFILE	Profile Points	Flow			0	1
+DG PROFILE	Profile Points	Flow			1	1
+DJ PROFILE	Profile Points	Flow			0	1
+DJ PROFILE	Profile Points	Flow			1	1
+DK PROFILE	Profile Points	Flow			0	1
+DK PROFILE	Profile Points	Flow			1	1
+DN PROFILE	Profile Points	Flow			0	1
+DN PROFILE	Profile Points	Flow			1	1
+DP PROFILE	Profile Points	Flow			0	1
+DP PROFILE	Profile Points	Flow			1	1
+DQ PROFILE	Profile Points	Flow			0	1
+DQ PROFILE	Profile Points	Flow			1	1
+DR PROFILE	Profile Points	Flow			0	1
+DR PROFILE	Profile Points	Flow			1	1
+DS PROFILE	Profile Points	Flow			0	1
+DS PROFILE	Profile Points	Flow			1	1
+DT PROFILE	Profile Points	Flow			0	1
+DT PROFILE	Profile Points	Flow			1	1
+DU PROFILE	Profile Points	Flow			0	1
+DU PROFILE	Profile Points	Flow			1	1
+DZ PROFILE	Profile Points	Flow			0	1
+DZ PROFILE	Profile Points	Flow			1	1
+DV PROFILE	Profile Points	Flow			0	1
+DV PROFILE	Profile Points	Flow			1	1
+DW PROFILE	Profile Points	Flow			0	1
+DW PROFILE	Profile Points	Flow			1	1
+DX PROFILE	Profile Points	Flow			0	1
+DX PROFILE	Profile Points	Flow			1	1
+DY PROFILE	Profile Points	Flow			0	1
+DY PROFILE	Profile Points	Flow			1	1
+TT PROFILE	Profile Points	Flow			0	1
+TT PROFILE	Profile Points	Flow			1	1
+XX PROFILE	Profile Points	Flow			0	1
+XX PROFILE	Profile Points	Flow			1	1
+H1 PROFILE	Profile Points	Flow			0	1
+H1 PROFILE	Profile Points	Flow			1	1
+H2 PROFILE	Profile Points	Flow			0	1
+H2 PROFILE	Profile Points	Flow			1	1
+V1 PROFILE	Profile Points	Flow			0	1
+V1 PROFILE	Profile Points	Flow			1	1
+V2 PROFILE	Profile Points	Flow			0	1
+V2 PROFILE	Profile Points	Flow			1	1
+LS PROFILE	Profile Points	Flow			0	1
+LS PROFILE	Profile Points	Flow			1	1
+B1 PROFILE	Profile Points	Flow			0	1
+B1 PROFILE	Profile Points	Flow			1	1
+BC PROFILE	Profile Points	Flow			0	1
+BC PROFILE	Profile Points	Flow			1	1
+PL-VN PROFILE	Profile Points	Flow			0	1
+PL-VN PROFILE	Profile Points	Flow			1	1
+PL-VD PROFILE	Profile Points	Flow			0	1
+PL-VD PROFILE	Profile Points	Flow			1	1
+I1 PROFILE	Profile Points	Flow			0	1
+I1 PROFILE	Profile Points	Flow			1	1
+PL-M PROFILE	Profile Points	Flow			0	1
+PL-M PROFILE	Profile Points	Flow			1	1
+PL-V PROFILE	Profile Points	Flow			0	1
+PL-V PROFILE	Profile Points	Flow			1	1
+PL-D3 PROFILE	Profile Points	Flow			0	1
+PL-D3 PROFILE	Profile Points	Flow			1	1
+PL-D2 PROFILE	Profile Points	Flow			0	1
+PL-D2 PROFILE	Profile Points	Flow			1	1
+PL-J1 PROFILE	Profile Points	Flow			0	1
+PL-J1 PROFILE	Profile Points	Flow			1	1
