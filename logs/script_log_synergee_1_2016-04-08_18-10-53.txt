@@ -1,0 +1,87 @@
+18:10:53 08/04/2016:|  Begin script
+18:10:53 08/04/2016:|  Settings File: S:\TEST AREA\ac00418\LRMM\settings\ASP_Script_1.ini
+18:10:53 08/04/2016:|   
+18:10:53 08/04/2016:|  ---------------------------------------------------------------
+18:10:53 08/04/2016:|   
+18:10:53 08/04/2016:|  [SUPPLEMENTS]
+18:10:53 08/04/2016:|  Using workspace: \\sgn\dfs\shared\Syn4.7.1\UsersWorkspaces\ac00418_471\WorkspaceDefaultG.ws.mdb
+18:10:53 08/04/2016:|  Using warehouse \\sgn\dfs\shared\Syn4.7.1\UsersWorkspaces\ac00418_471\WarehouseDefaultG.wh.mdb
+18:10:53 08/04/2016:|   
+18:10:53 08/04/2016:|  ---------------------------------------------------------------
+18:10:53 08/04/2016:|   
+18:10:53 08/04/2016:|  [MODEL DATA]
+18:10:53 08/04/2016:|  Number of models: 5
+18:10:53 08/04/2016:|  Start at: 1
+18:10:53 08/04/2016:|   
+18:10:53 08/04/2016:|  ---------------------------------------------------------------
+18:10:53 08/04/2016:|   
+18:10:53 08/04/2016:|  Analysis Log: \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\logs\analysis_log_1_2016-04-08_18-10-53.csv
+18:10:53 08/04/2016:|  Script Log: \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\logs\script_log_1_2016-04-08_18-10-53.csv
+18:10:53 08/04/2016:|  Validation Log: \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\logs\validation_log_1_2016-04-08_18-10-53.csv
+18:10:53 08/04/2016:|  Data Import Log: \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\logs\data_import_log_1_2016-04-08_18-10-53.csv
+18:10:53 08/04/2016:|  Data Export Log: \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\logs\data_export_log_1_2016-04-08_18-10-53.csv
+18:10:53 08/04/2016:|  General Log: \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\logs\general_log_1_2016-04-08_18-10-53.csv
+18:10:53 08/04/2016:|  Setup Complete
+18:10:53 08/04/2016:|  Begin model cycle
+18:10:53 08/04/2016:|   
+18:10:53 08/04/2016:|  [MODELS]
+18:10:53 08/04/2016:|   1. Load model data........................................
+18:10:53 08/04/2016:|   Model1 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\Scotland Networks\North\602001 Dundee LP\FY-1\602001_DUNDEE_FY1.MDB
+18:10:53 08/04/2016:|   ModelName1 : 602001_DUNDEE_FY1
+18:10:53 08/04/2016:|   ModelOut1 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\test\modelsOut\602001_DUNDEE_FY1_ASP.MDB
+18:11:16 08/04/2016:|   ..........Model Load OK
+18:11:34 08/04/2016:|   ..........Model Balance OK
+18:11:34 08/04/2016:|   ..........Model is Feasible
+18:11:34 08/04/2016:|   ..........Model Solved OK
+18:11:34 08/04/2016:|   ..........Subsystem Trace OK
+18:12:19 08/04/2016:|   ..........Model SAVED OK
+18:12:19 08/04/2016:|  Done: ... 602001_DUNDEE_FY1
+18:12:19 08/04/2016:|   2. Load model data........................................
+18:12:19 08/04/2016:|   Model2 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\Scotland Networks\North\602017 Kinross LP\FY1\602017_KINROSS_FY1.MDB
+18:12:19 08/04/2016:|   ModelName2 : 602017_KINROSS_FY1
+18:12:19 08/04/2016:|   ModelOut2 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\test\modelsOut\602017_KINROSS_FY1_ASP.MDB
+18:12:25 08/04/2016:|   ..........Model Load OK
+18:12:30 08/04/2016:|   ..........Model Balance OK
+18:12:30 08/04/2016:|   ..........Model is Feasible
+18:12:30 08/04/2016:|   ..........Model Solved OK
+18:12:30 08/04/2016:|   ..........Subsystem Trace OK
+18:12:42 08/04/2016:|   ..........Model SAVED OK
+18:12:42 08/04/2016:|  Done: ... 602017_KINROSS_FY1
+18:12:42 08/04/2016:|   3. Load model data........................................
+18:12:42 08/04/2016:|   Model3 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\Scotland Networks\West\625042 Bishopton LP\FY-1\625042_Bishopton_FY1.MDB
+18:12:42 08/04/2016:|   ModelName3 : 625042_Bishopton_FY1
+18:12:42 08/04/2016:|   ModelOut3 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\test\modelsOut\625042_Bishopton_FY1_ASP.MDB
+18:12:48 08/04/2016:|   ..........Model Load OK
+18:12:51 08/04/2016:|   ..........Model Balance OK
+18:12:51 08/04/2016:|   ..........Model is Feasible
+18:12:51 08/04/2016:|   ..........Model Solved OK
+18:12:51 08/04/2016:|   ..........Subsystem Trace OK
+18:13:02 08/04/2016:|   ..........Model SAVED OK
+18:13:02 08/04/2016:|  Done: ... 625042_Bishopton_FY1
+18:13:02 08/04/2016:|   4. Load model data........................................
+18:13:02 08/04/2016:|   Model4 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\Southern Networks\S2 (82) district LP models\820004_ANDOVER\FY1\820004_ANDOVER_FY1.MDB
+18:13:02 08/04/2016:|   ModelName4 : 820004_ANDOVER_FY1
+18:13:02 08/04/2016:|   ModelOut4 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\test\modelsOut\820004_ANDOVER_FY1_ASP.MDB
+18:13:17 08/04/2016:|   ..........Model Load OK
+18:13:22 08/04/2016:|   ..........Model Balance OK
+18:13:22 08/04/2016:|   ..........Model is Feasible
+18:13:22 08/04/2016:|   ..........Model Solved OK
+18:13:22 08/04/2016:|   ..........Subsystem Trace OK
+18:13:46 08/04/2016:|   ..........Model SAVED OK
+18:13:46 08/04/2016:|  Done: ... 820004_ANDOVER_FY1
+18:13:46 08/04/2016:|   5. Load model data........................................
+18:13:46 08/04/2016:|   Model5 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\Southern Networks\S8 (94) district LP models\941202_HEATHFIELD\FY1\941202_HEATHFIELD_FY1.MDB
+18:13:46 08/04/2016:|   ModelName5 : 941202_HEATHFIELD_FY1
+18:13:46 08/04/2016:|   ModelOut5 : \\scotia.sgngroup.net\dfs\shared\Syn4.2.3\TEST AREA\ac00418\LRMM\test\modelsOut\941202_HEATHFIELD_FY1_ASP.MDB
+18:13:53 08/04/2016:|   ..........Model Load OK
+18:13:57 08/04/2016:|   ..........Model Balance OK
+18:13:57 08/04/2016:|   ..........Model is Feasible
+18:13:57 08/04/2016:|   ..........Model Solved OK
+18:13:58 08/04/2016:|   ..........Subsystem Trace OK
+18:14:11 08/04/2016:|   ..........Model SAVED OK
+18:14:11 08/04/2016:|  Done: ... 941202_HEATHFIELD_FY1
+18:14:11 08/04/2016:|  Finished batch
+18:14:11 08/04/2016:|   
+18:14:11 08/04/2016:|  Write synergee logs to file
+18:14:12 08/04/2016:|   
+18:14:12 08/04/2016:|  DONE
